@@ -1,0 +1,4 @@
+CREATE OR REPLACE PACKAGE MBCIDemo_XX AS 
+   PROCEDURE find_sal(c_id number); 
+END MBCIDemo_XX;
+/
